@@ -27,7 +27,7 @@ public class Order {
                 System.out.println("Vous avez choisi comme menu : végétarien");
                 break;
             default:
-                System.out.println("Vous n'avez pas choisi un des choix proposés comme menu");
+                System.out.println("Vous n'avez pas choisi de menu parmi les choix proposés");
                 break;
         }
     }
